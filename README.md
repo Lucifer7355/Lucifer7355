@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ankit-kumar-srivastava-39a225189/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankit kumar srivastava" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/metacube7355" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="metacube7355" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/go_getter7355" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="metacube7355" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@ankitviddya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ankitviddya" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/noob_programmer8858" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="noob_programmer8858" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/red_hat7355" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="red_hat7355" height="30" width="40" /></a>
