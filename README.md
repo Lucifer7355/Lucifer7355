@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucifer7355" alt="lucifer7355" /></a> </p>
 
-- 🌱 I’m currently learning **SpringBoot**
+- 🌱 A **Backend SpringBoot Developer**
 
 - 📫 How to reach me **ankitviddya@gmail.com**
 
