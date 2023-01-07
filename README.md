@@ -7,7 +7,7 @@
 
 - 🌱 A **Backend SpringBoot Developer**
 
-- 📫 How to reach me **ankitviddya@gmail.com**
+- 📫 Reach me at **ankitviddya@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
