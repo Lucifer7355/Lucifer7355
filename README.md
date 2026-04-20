@@ -80,10 +80,10 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-`Java` `Python` `C++` `JavaScript`
+`Java` `Python` `C++` `JavaScript` `Go`
 
 ### 🚀 Backend Frameworks
-`Spring Boot` `Django` `Flask` `Node.js`
+`Spring Boot` `Django` `Flask` `Node.js` `Gin`
 
 ### 🗄️ Databases
 `PostgreSQL` `MySQL` `MongoDB` `Redis`
@@ -117,7 +117,7 @@
 
 ---
 
-## 📌 Featured Work (You should plug real links here)
+## 📌 Featured Work
 
 - 🔹 High-scale Payment Processing System  
 - 🔹 Distributed Rate Limiter (Redis + Token Bucket)  
