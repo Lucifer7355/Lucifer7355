@@ -6,9 +6,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lucifer7355&theme=algolia&no-frame=true&row=1&column=7" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucifer7355&theme=tokyo-night" />
 </p>
-
 ---
 
 ## 🚀 About Me
