@@ -1,32 +1,142 @@
 <h1 align="center">Hi 👋, I'm Ankit Kumar Srivastava</h1>
-<h3 align="center">A passionate Competitive Programmer from India.</h3>
+<h3 align="center">Senior Backend Engineer | Distributed Systems | FinTech | High Scale Systems</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucifer7355&label=Profile%20views&color=0e75b6&style=flat" alt="lucifer7355" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucifer7355" alt="lucifer7355" /></a> </p>
-
-- 🌱 A **Backend SpringBoot Developer**
-
-- 📫 Reach me at **ankitviddya@gmail.com**
-- Know more about me at **https://lucifer7355.github.io/**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/ankit-kumar-srivastava-39a225189/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankit kumar srivastava" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/go_getter7355" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="metacube7355" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@ankitviddya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ankitviddya" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/noob_programmer8858" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="noob_programmer8858" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/red_hat7355" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="red_hat7355" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@ankitviddya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@ankitviddya" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lucifer7355&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucifer7355&show_icons=true&locale=en" alt="lucifer7355" /></p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucifer7355&show_icons=true&locale=en&layout=compact" alt="lucifer7355" />
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lucifer7355&theme=algolia&no-frame=true&row=1&column=7" />
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucifer7355&" alt="lucifer7355" /></p>
+---
+
+## 🚀 About Me
+
+- 💼 Backend Engineer with **real-world experience in high-scale FinTech systems**
+- 🏦 Built and worked on **payment processing, clearing & transaction lifecycle systems**
+- ⚡ Strong in **System Design (HLD + LLD) with production mindset**
+- 🔄 Hands-on with **Concurrency, Multithreading & Async systems**
+- 📈 Focused on **scalability, reliability, and low-latency backend services**
+- 🧠 Problem solver with strong foundation in **DSA + system thinking**
+
+---
+
+## 🏗️ What I Actually Work On (Real Engineering Depth)
+
+- Designing **event-driven microservices architectures**
+- Handling **millions of transaction flows reliably**
+- Building **idempotent APIs for financial systems**
+- Debugging **distributed systems issues in production**
+- Optimizing **database queries & reducing latency**
+- Designing **fault-tolerant and self-healing systems**
+
+---
+
+## 🧩 System Design Expertise
+
+- Distributed Systems & Microservices Architecture  
+- CAP Theorem & Consistency Tradeoffs  
+- High Availability & Fault Tolerance  
+- API Design (Idempotency, Rate Limiting, Retries)  
+- Caching (Redis, In-memory, CDN strategies)  
+- Database Design (Indexing, Partitioning, Sharding)  
+- Event-driven systems (Kafka / Pub-Sub)
+
+---
+
+## ⚙️ Backend & Engineering
+
+- Java, Spring Boot (Primary Stack)
+- REST APIs, Async APIs, Webhooks
+- Authentication & Authorization (JWT, OAuth)
+- API Gateway & Routing Layers
+- Observability (Logging, Metrics, Tracing)
+
+---
+
+## 🔄 Concurrency & Performance
+
+- Multithreading & Parallel Processing  
+- Thread Pools, Executors  
+- Race Condition handling  
+- Deadlock prevention strategies  
+- Async / Non-blocking architectures  
+- Performance tuning (CPU, memory, DB)
+
+---
+
+## 🏦 FinTech & Payments Expertise
+
+- End-to-end payment flow:
+  **Authorization → Clearing → Settlement → Reconciliation**
+- Transaction lifecycle management
+- Handling **duplicate & retry-safe processing**
+- Designing **idempotent financial APIs**
+- Ledger & balance consistency understanding
+- Working with **real-time and batch processing systems**
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+`Java` `Python` `C++` `JavaScript`
+
+### 🚀 Backend Frameworks
+`Spring Boot` `Django` `Flask` `Node.js`
+
+### 🗄️ Databases
+`PostgreSQL` `MySQL` `MongoDB` `Redis`
+
+### ☁️ DevOps & Cloud
+`AWS` `GCP` `Docker` `Kubernetes` `Git`
+
+### 📡 Messaging & Streaming
+`Kafka` `Pub/Sub` `Event-driven systems`
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lucifer7355&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucifer7355&theme=tokyonight" />
+</p>
+
+---
+
+## 🧠 Engineering Mindset
+
+✔️ Write **production-grade, scalable code**  
+✔️ Design systems that **fail gracefully & recover automatically**  
+✔️ Think in terms of **throughput, latency & reliability**  
+✔️ Prefer **clean architecture & maintainability over hacks**  
+
+---
+
+## 📌 Featured Work (You should plug real links here)
+
+- 🔹 High-scale Payment Processing System  
+- 🔹 Distributed Rate Limiter (Redis + Token Bucket)  
+- 🔹 Event-driven Notification System (Kafka)  
+- 🔹 Idempotent Transaction Processing API  
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/ankit-kumar-srivastava-39a225189/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+</a>
+</p>
+
+---
+
+## ⚡ Philosophy
+
+> “Simple systems scale. Complex systems fail. Design for clarity, then optimize for scale.”
