@@ -5,20 +5,25 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+    timeout-minutes: 5
     steps:
       - uses: actions/checkout@v4
 
-      - uses: Platane/snake@v3
+      - name: Generate contribution snake SVG
+        uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: Lucifer7355
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?sanitize=true
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=58a6ff
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Deploy snake to output branch
         uses: JamesIves/github-pages-deploy-action@v4
