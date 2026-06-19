@@ -1,141 +1,190 @@
-<h1 align="center">Hi 👋, I'm Ankit Kumar Srivastava</h1>
-<h3 align="center">Senior Backend Engineer | Distributed Systems | FinTech | High Scale Systems</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lucifer7355&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Ankit%20Kumar%20Srivastava&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Senior%20Backend%20Engineer%20%7C%20Distributed%20Systems%20%7C%20FinTech%20%7C%20AI%20Engineering&descSize=16&descAlignY=55&descAlign=50"/>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucifer7355&theme=tokyo-night" />
-</p>
----
+<br/>
 
-## 🚀 About Me
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=780&lines=Building+systems+that+scale+to+millions+of+transactions;Designing+fault-tolerant+microservices+architectures;Shipping+production-grade+AI+%26+RAG+platforms;Turning+complex+problems+into+clean+engineering" alt="Typing SVG" />
 
-- 💼 Backend Engineer with **real-world experience in high-scale FinTech systems**
-- 🏦 Built and worked on **payment processing, clearing & transaction lifecycle systems**
-- ⚡ Strong in **System Design (HLD + LLD) with production mindset**
-- 🔄 Hands-on with **Concurrency, Multithreading & Async systems**
-- 📈 Focused on **scalability, reliability, and low-latency backend services**
-- 🧠 Problem solver with strong foundation in **DSA + system thinking**
+<br/><br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Lucifer7355&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/Lucifer7355)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-kumar-srivastava-39a225189/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lucifer7355)
+[![Email](https://img.shields.io/badge/Email-ankitviddya@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankitviddya@gmail.com)
+
+</div>
 
 ---
 
-## 🏗️ What I Actually Work On (Real Engineering Depth)
+## `> whoami`
 
-- Designing **event-driven microservices architectures**
-- Handling **millions of transaction flows reliably**
-- Building **idempotent APIs for financial systems**
-- Debugging **distributed systems issues in production**
-- Optimizing **database queries & reducing latency**
-- Designing **fault-tolerant and self-healing systems**
+```yaml
+name: Ankit Kumar Srivastava
+role: Senior Backend Engineer
+focus: Distributed Systems · FinTech · High-Scale APIs · AI/RAG
+location: India
+currently: Building production systems that don't break at 2 AM
+philosophy: Simple systems scale. Complex systems fail.
+```
 
----
+<br/>
 
-## 🧩 System Design Expertise
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- Distributed Systems & Microservices Architecture  
-- CAP Theorem & Consistency Tradeoffs  
-- High Availability & Fault Tolerance  
-- API Design (Idempotency, Rate Limiting, Retries)  
-- Caching (Redis, In-memory, CDN strategies)  
-- Database Design (Indexing, Partitioning, Sharding)  
-- Event-driven systems (Kafka / Pub-Sub)
+### 🚀 **What I Build**
 
----
+- Payment flows — **Auth → Clearing → Settlement → Reconciliation**
+- Event-driven microservices at **millions of TPS** mindset
+- Idempotent, retry-safe **financial APIs**
+- **Enterprise RAG** with RBAC, hybrid retrieval & observability
+- Systems that **fail gracefully** and recover automatically
 
-## ⚙️ Backend & Engineering
+</td>
+<td width="50%" valign="top">
 
-- Java, Spring Boot (Primary Stack)
-- REST APIs, Async APIs, Webhooks
-- Authentication & Authorization (JWT, OAuth)
-- API Gateway & Routing Layers
-- Observability (Logging, Metrics, Tracing)
+### 🧠 **Engineering Depth**
 
----
+- **HLD + LLD** with production-first thinking
+- Concurrency, multithreading & async architectures
+- CAP theorem, consistency tradeoffs & fault tolerance
+- Caching, sharding, indexing & latency optimization
+- JWT/OAuth, API gateways, observability stacks
 
-## 🔄 Concurrency & Performance
-
-- Multithreading & Parallel Processing  
-- Thread Pools, Executors  
-- Race Condition handling  
-- Deadlock prevention strategies  
-- Async / Non-blocking architectures  
-- Performance tuning (CPU, memory, DB)
+</td>
+</tr>
+</table>
 
 ---
 
-## 🏦 FinTech & Payments Expertise
+## `> featured.flagship`
 
-- End-to-end payment flow:
-  **Authorization → Clearing → Settlement → Reconciliation**
-- Transaction lifecycle management
-- Handling **duplicate & retry-safe processing**
-- Designing **idempotent financial APIs**
-- Ledger & balance consistency understanding
-- Working with **real-time and batch processing systems**
+<div align="center">
 
----
+### 🏆 Enterprise RAG Intelligence Platform
 
-## 🛠️ Tech Stack
+[![Enterprise RAG](https://github-readme-stats.vercel.app/api/pin/?username=Lucifer7355&repo=enterprise-rag-intelligence-platform&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)](https://github.com/Lucifer7355/enterprise-rag-intelligence-platform)
 
-### 💻 Languages
-`Java` `Python` `C++` `JavaScript` `Go`
+`Python` `FastAPI` `Streamlit` `Qdrant` `Elasticsearch` `JWT` `RAGAS` `Docker`
 
-### 🚀 Backend Frameworks
-`Spring Boot` `Django` `Flask` `Node.js` `Gin`
+> Production-grade enterprise RAG — RBAC-enforced hybrid retrieval, knowledge graph reasoning, JWT auth, Phoenix/Langfuse observability & 33 automated tests.
 
-### 🗄️ Databases
-`PostgreSQL` `MySQL` `MongoDB` `Redis`
+[**→ Explore the repo**](https://github.com/Lucifer7355/enterprise-rag-intelligence-platform)
 
-### ☁️ DevOps & Cloud
-`AWS` `GCP` `Docker` `Kubernetes` `Git`
-
-### 📡 Messaging & Streaming
-`Kafka` `Pub/Sub` `Event-driven systems`
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## `> tech.stack`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucifer7355&show_icons=true&theme=tokyonight" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucifer7355&theme=tokyonight" />
-</p>
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+<br/>
+
+### Backend & Frameworks
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+<br/>
+
+### Data, Infra & Cloud
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+</div>
 
 ---
 
-## 🧠 Engineering Mindset
+## `> github.analytics`
 
-✔️ Write **production-grade, scalable code**  
-✔️ Design systems that **fail gracefully & recover automatically**  
-✔️ Think in terms of **throughput, latency & reliability**  
-✔️ Prefer **clean architecture & maintainability over hacks**  
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=Lucifer7355&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lucifer7355&theme=tokyonight&hide_border=true&background=0D1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="165"/>
 
-## 📌 Featured Work
+<br/><br/>
 
-- 🔹 High-scale Payment Processing System  
-- 🔹 Distributed Rate Limiter (Redis + Token Bucket)  
-- 🔹 Event-driven Notification System (Kafka)  
-- 🔹 Idempotent Transaction Processing API  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucifer7355&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="165"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Lucifer7355&theme=darkhub&no-frame=true&column=4&margin-w=8&margin-h=8" height="165"/>
+
+</div>
 
 ---
 
-## 🌐 Connect With Me
+## `> activity.graph`
 
-<p align="center">
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lucifer7355&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&custom_title=Contribution%20Activity" width="100%"/>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/Lucifer7355/Lucifer7355/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+</div>
+
+---
+
+## `> more.projects`
+
+<div align="center">
+
+| Project | Description |
+|:--------|:------------|
+| 💳 **Payment Processing System** | High-scale authorization, clearing & settlement flows |
+| 🚦 **Distributed Rate Limiter** | Redis + token bucket for API throttling at scale |
+| 📨 **Event Notification System** | Kafka-driven async notification pipeline |
+| 🔁 **Idempotent Transaction API** | Retry-safe financial operations with deduplication |
+
+</div>
+
+---
+
+## `> connect()`
+
+<div align="center">
+
+**Let's build something that scales.**
+
+<br/>
+
 <a href="https://www.linkedin.com/in/ankit-kumar-srivastava-39a225189/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-</p>
+
+<br/><br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random dev quote"/>
+
+</div>
 
 ---
 
-## ⚡ Philosophy
+<div align="center">
 
-> “Simple systems scale. Complex systems fail. Design for clarity, then optimize for scale.”
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer"/>
+
+**⚡ Simple systems scale. Complex systems fail. Design for clarity, then optimize for scale.**
+
+<br/>
+
+*Thanks for stopping by — grab a ☕ and explore my repos!*
+
+</div>
