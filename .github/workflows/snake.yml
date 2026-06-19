@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate Profile Assets
 
 on:
   schedule:
@@ -25,7 +25,12 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Deploy snake to output branch
+      - name: Download profile trophy SVG
+        run: |
+          curl -fsSL "https://gh-trophy.cdnsoft.net/?username=${{ github.repository_owner }}&theme=darkhub&no-frame=true&column=4&margin-w=8&margin-h=8" \
+            -o dist/github-profile-trophy.svg
+
+      - name: Deploy assets to output branch
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           branch: output

@@ -126,7 +126,7 @@ philosophy: Simple systems scale. Complex systems fail.
 <br/><br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucifer7355&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="165"/>
-<img src="https://github-profile-trophy.vercel.app/?username=Lucifer7355&theme=darkhub&no-frame=true&column=4&margin-w=8&margin-h=8" height="165"/>
+<img src="https://raw.githubusercontent.com/Lucifer7355/Lucifer7355/output/github-profile-trophy.svg" height="165" alt="GitHub Profile Trophies"/>
 
 </div>
 
