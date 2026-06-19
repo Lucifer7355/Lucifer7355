@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Ankit%20Kumar%20Srivastava&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Senior%20Backend%20Engineer%20%7C%20FinTech%20%7C%20IT%20Security%20%7C%20MarTech%20%7C%20AI%20Engineering&descSize=16&descAlignY=55&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Ankit%20Kumar%20Srivastava&fontSize=36&fontColor=ffffff&fontAlign=50&fontAlignY=40&desc=Senior%20Backend%20Engineer-nl-FinTech%20%7C%20IT%20Security%20%7C%20MarTech%20%7C%20AI&descSize=15&descAlign=50&descAlignY=62&animation=fadeIn" alt="Profile header"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=780&lines=Building+systems+that+scale+to+millions+of+transactions;Securing+platforms+with+identity%2C+access+control+%26+compliance;Powering+MarTech+pipelines+for+campaigns+%26+customer+analytics;Shipping+production-grade+AI+%26+RAG+platforms" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=5000&pause=2000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+scalable+backend+systems+at+scale;Securing+platforms+with+RBAC+and+compliance;Shipping+production-grade+AI+and+RAG+platforms" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -189,7 +189,7 @@ philosophy: Simple systems scale. Complex systems fail.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer&animation=fadeIn" alt="Footer"/>
 
 **⚡ Simple systems scale. Complex systems fail. Design for clarity, then optimize for scale.**
 
