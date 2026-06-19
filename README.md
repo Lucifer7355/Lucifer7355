@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Ankit%20Kumar%20Srivastava&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Senior%20Backend%20Engineer%20%7C%20Distributed%20Systems%20%7C%20FinTech%20%7C%20AI%20Engineering&descSize=16&descAlignY=55&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Ankit%20Kumar%20Srivastava&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Senior%20Backend%20Engineer%20%7C%20FinTech%20%7C%20IT%20Security%20%7C%20MarTech%20%7C%20AI%20Engineering&descSize=16&descAlignY=55&descAlign=50"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=780&lines=Building+systems+that+scale+to+millions+of+transactions;Designing+fault-tolerant+microservices+architectures;Shipping+production-grade+AI+%26+RAG+platforms;Turning+complex+problems+into+clean+engineering" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=780&lines=Building+systems+that+scale+to+millions+of+transactions;Securing+platforms+with+identity%2C+access+control+%26+compliance;Powering+MarTech+pipelines+for+campaigns+%26+customer+analytics;Shipping+production-grade+AI+%26+RAG+platforms" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -22,7 +22,7 @@
 ```yaml
 name: Ankit Kumar Srivastava
 role: Senior Backend Engineer
-focus: Distributed Systems · FinTech · High-Scale APIs · AI/RAG
+focus: FinTech · IT Security · MarTech · Distributed Systems · AI/RAG
 location: India
 currently: Building production systems that don't break at 2 AM
 philosophy: Simple systems scale. Complex systems fail.
@@ -37,6 +37,8 @@ philosophy: Simple systems scale. Complex systems fail.
 ### 🚀 **What I Build**
 
 - Payment flows — **Auth → Clearing → Settlement → Reconciliation**
+- **IT security** platforms — identity, access control, PII protection & audit trails
+- **MarTech** systems — campaign data pipelines, event tracking & customer analytics
 - Event-driven microservices at **millions of TPS** mindset
 - Idempotent, retry-safe **financial APIs**
 - **Enterprise RAG** with RBAC, hybrid retrieval & observability
@@ -48,6 +50,8 @@ philosophy: Simple systems scale. Complex systems fail.
 ### 🧠 **Engineering Depth**
 
 - **HLD + LLD** with production-first thinking
+- Security-by-design — authN/authZ, secrets handling & compliance-aware APIs
+- High-volume **event ingestion** for marketing & behavioral analytics
 - Concurrency, multithreading & async architectures
 - CAP theorem, consistency tradeoffs & fault tolerance
 - Caching, sharding, indexing & latency optimization
@@ -151,8 +155,10 @@ philosophy: Simple systems scale. Complex systems fail.
 | Domain | What I Worked On |
 |:-------|:-----------------|
 | 💳 **Payments & FinTech** | Authorization, clearing, settlement & reconciliation at scale |
+| 🔐 **IT Security** | Secure backend services, identity & access management, PII handling, audit logging & compliance-ready APIs |
+| 📊 **MarTech** | Campaign & customer data pipelines, event tracking, attribution flows & analytics at scale |
 | 🚦 **Platform & Reliability** | Distributed rate limiting with Redis + token bucket strategies |
-| 📨 **Event-Driven Systems** | Kafka-based async notification & pub-sub pipelines |
+| 📨 **Event-Driven Systems** | Kafka-based async notification, pub-sub & real-time data pipelines |
 | 🔁 **Financial APIs** | Idempotent, retry-safe transaction processing with deduplication |
 
 </div>
