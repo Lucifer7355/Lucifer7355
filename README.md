@@ -142,18 +142,22 @@ philosophy: Simple systems scale. Complex systems fail.
 
 ---
 
-## `> more.projects`
+## `> professional.experience`
+
+*Systems I've designed, built, or contributed to in production — not public repos, but real engineering work.*
 
 <div align="center">
 
-| Project | Description |
-|:--------|:------------|
-| 💳 **Payment Processing System** | High-scale authorization, clearing & settlement flows |
-| 🚦 **Distributed Rate Limiter** | Redis + token bucket for API throttling at scale |
-| 📨 **Event Notification System** | Kafka-driven async notification pipeline |
-| 🔁 **Idempotent Transaction API** | Retry-safe financial operations with deduplication |
+| Domain | What I Worked On |
+|:-------|:-----------------|
+| 💳 **Payments & FinTech** | Authorization, clearing, settlement & reconciliation at scale |
+| 🚦 **Platform & Reliability** | Distributed rate limiting with Redis + token bucket strategies |
+| 📨 **Event-Driven Systems** | Kafka-based async notification & pub-sub pipelines |
+| 🔁 **Financial APIs** | Idempotent, retry-safe transaction processing with deduplication |
 
 </div>
+
+<sub>👇 For code & open-source work, check my <a href="https://github.com/Lucifer7355?tab=repositories">repositories</a> — especially <a href="https://github.com/Lucifer7355/enterprise-rag-intelligence-platform">Enterprise RAG Intelligence Platform</a>.</sub>
 
 ---
 
